@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "395263932075",
+    "firebase_url": "https://lyftsqr-c32a5.firebaseio.com",
+    "project_id": "lyftsqr-c32a5",
+    "storage_bucket": "lyftsqr-c32a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395263932075:android:090a6b46f8de29ae",
+        "android_client_info": {
+          "package_name": "com.ajstudio.fitbyteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395263932075-3e7tfabgsp50sd5t1c569tnrkorpsj14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8SSpP2xzo71wcUpWdGT0GAwXsP3utQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395263932075:android:42af90ddd0aa26b8",
+        "android_client_info": {
+          "package_name": "com.lyftsqr.lyftsqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395263932075-u49nkdiq2q5k8s8m06njcpgf8p240roq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lyftsqr.lyftsqr",
+            "certificate_hash": "da516ce2ce406b442a3ca51a0e18a1b60eb2b2b1"
+          }
+        },
+        {
+          "client_id": "395263932075-3e7tfabgsp50sd5t1c569tnrkorpsj14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8SSpP2xzo71wcUpWdGT0GAwXsP3utQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395263932075-3e7tfabgsp50sd5t1c569tnrkorpsj14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
